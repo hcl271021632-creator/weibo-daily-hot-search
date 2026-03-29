@@ -22,57 +22,57 @@ Browse historical trending data with status badges, velocity indicators, and cat
 
 <!-- BEGIN -->
 
-1. [单依纯 舞娘 (Shan Yichun Dancer)](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E8%88%9E%E5%A8%98%23) `578.2K 🔥` `NEW`
-1. [迪丽热巴演技](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%BC%94%E6%8A%80%23) `311.3K 🔥` `NEW`
-1. [NCT哭了](https://s.weibo.com/weibo?q=%23NCT%E5%93%AD%E4%BA%86%23) `298.8K 🔥` `NEW`
-1. [李马克哭了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%A9%AC%E5%85%8B%E5%93%AD%E4%BA%86%23) `293.3K 🔥` `NEW`
-1. [美以伊战事一个月重要节点](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E4%BC%8A%E6%88%98%E4%BA%8B%E4%B8%80%E4%B8%AA%E6%9C%88%E9%87%8D%E8%A6%81%E8%8A%82%E7%82%B9%23) `286.6K 🔥` `NEW`
-1. [澳门世界杯首日赛程](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E9%97%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%97%A5%E8%B5%9B%E7%A8%8B%23) `275.4K 🔥` `NEW`
-1. [中国石油拟分红457.6亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E6%8B%9F%E5%88%86%E7%BA%A2457.6%E4%BA%BF%E5%85%83%23) `275.2K 🔥` `NEW`
-1. [70岁四川师傅炒牛肉蒜苔](https://s.weibo.com/weibo?q=%2370%E5%B2%81%E5%9B%9B%E5%B7%9D%E5%B8%88%E5%82%85%E7%82%92%E7%89%9B%E8%82%89%E8%92%9C%E8%8B%94%23) `273.9K 🔥` `NEW`
-1. [谁说ai取代不了人类](https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AF%B4ai%E5%8F%96%E4%BB%A3%E4%B8%8D%E4%BA%86%E4%BA%BA%E7%B1%BB%23) `273.3K 🔥` `NEW`
-1. [解放军位中国黄岩岛领海领空战备警巡](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E4%BD%8D%E4%B8%AD%E5%9B%BD%E9%BB%84%E5%B2%A9%E5%B2%9B%E9%A2%86%E6%B5%B7%E9%A2%86%E7%A9%BA%E6%88%98%E5%A4%87%E8%AD%A6%E5%B7%A1%23) `273.0K 🔥` `NEW`
-1. [中国石油2025净利润1573亿 (PetroChina’s net profit in 2025 is 157.3 billion)](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B92025%E5%87%80%E5%88%A9%E6%B6%A61573%E4%BA%BF%23) `272.7K 🔥` `NEW`
-1. [白日提灯](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%23) `272.4K 🔥` `NEW`
-1. [檀健次看镜头好温柔](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9C%8B%E9%95%9C%E5%A4%B4%E5%A5%BD%E6%B8%A9%E6%9F%94%23) `272.1K 🔥` `NEW`
-1. [伊称击毁美E3预警机](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E7%A7%B0%E5%87%BB%E6%AF%81%E7%BE%8EE3%E9%A2%84%E8%AD%A6%E6%9C%BA%23) `271.9K 🔥` `NEW`
-1. [世界最大直径高铁盾构机上岸](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%9B%B4%E5%BE%84%E9%AB%98%E9%93%81%E7%9B%BE%E6%9E%84%E6%9C%BA%E4%B8%8A%E5%B2%B8%23) `597.3K 🔥` `+280%`
-1. [内存条价格出现断崖式下跌](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%87%BA%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23) `566.0K 🔥` `+107%`
-1. [汪峰演唱会 (Wang Feng concert)](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23) `522.8K 🔥` `+23%`
-1. [很多食物都是面朝下更好吃](https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%A4%9A%E9%A3%9F%E7%89%A9%E9%83%BD%E6%98%AF%E9%9D%A2%E6%9C%9D%E4%B8%8B%E6%9B%B4%E5%A5%BD%E5%90%83%23) `502.4K 🔥` `+23%`
-1. [美军战斧导弹消耗速度震惊五角大楼](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%A7%E5%AF%BC%E5%BC%B9%E6%B6%88%E8%80%97%E9%80%9F%E5%BA%A6%E9%9C%87%E6%83%8A%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%23) `456.5K 🔥` `+67%`
-1. [李荣浩4连质问单依纯](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A94%E8%BF%9E%E8%B4%A8%E9%97%AE%E5%8D%95%E4%BE%9D%E7%BA%AF%23) `11.2M 🔥`
-1. [一二线城市兴起周末情侣 (Weekend couples are emerging in first- and second-tier cities)](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E5%85%B4%E8%B5%B7%E5%91%A8%E6%9C%AB%E6%83%85%E4%BE%A3%23) `468.4K 🔥`
-1. [鸭嘴钳是无数女性做检查时的噩梦](https://s.weibo.com/weibo?q=%23%E9%B8%AD%E5%98%B4%E9%92%B3%E6%98%AF%E6%97%A0%E6%95%B0%E5%A5%B3%E6%80%A7%E5%81%9A%E6%A3%80%E6%9F%A5%E6%97%B6%E7%9A%84%E5%99%A9%E6%A2%A6%23) `389.8K 🔥`
-1. [郝蕾说的是谁好难猜啊 (It’s hard to guess who Hao Lei is talking about.)](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%AF%B4%E7%9A%84%E6%98%AF%E8%B0%81%E5%A5%BD%E9%9A%BE%E7%8C%9C%E5%95%8A%23) `312.4K 🔥`
-1. [春假](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%81%87%23) `308.5K 🔥`
-1. [铂智7上市限时补贴权益价14.78万起](https://s.weibo.com/weibo?q=%23%E9%93%82%E6%99%BA7%E4%B8%8A%E5%B8%82%E9%99%90%E6%97%B6%E8%A1%A5%E8%B4%B4%E6%9D%83%E7%9B%8A%E4%BB%B714.78%E4%B8%87%E8%B5%B7%23) `301.9K 🔥`
-1. [奈雪的茶没人喝了 (No one drinks Nayuki’s tea anymore)](https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E6%B2%A1%E4%BA%BA%E5%96%9D%E4%BA%86%23) `287.6K 🔥`
-1. [严浩翔分享歌曲](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%88%86%E4%BA%AB%E6%AD%8C%E6%9B%B2%23) `281.3K 🔥`
-1. [儿子蛇缠腰父亲涂抹符水圈住疱疹 (The son has a snake wrapped around his waist and the father applies talismans to trap herpes)](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%9B%87%E7%BC%A0%E8%85%B0%E7%88%B6%E4%BA%B2%E6%B6%82%E6%8A%B9%E7%AC%A6%E6%B0%B4%E5%9C%88%E4%BD%8F%E7%96%B1%E7%96%B9%23) `277.0K 🔥`
-1. [母亲隐瞒近40岁女儿已婚骗17万彩礼 (Mother concealed that her nearly 40-year-old daughter was married and defrauded her of 170,000 yuan in gift money)](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E9%9A%90%E7%9E%92%E8%BF%9140%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B7%B2%E5%A9%9A%E9%AA%9717%E4%B8%87%E5%BD%A9%E7%A4%BC%23) `276.7K 🔥`
-1. [1米8男子遭家暴称我要离婚](https://s.weibo.com/weibo?q=%231%E7%B1%B38%E7%94%B7%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E7%A7%B0%E6%88%91%E8%A6%81%E7%A6%BB%E5%A9%9A%23) `276.5K 🔥`
-1. [陈牧驰回应与吴楚一相关争议 (Chen Muchi responded to the controversy related to Wu Chuyi)](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%90%B4%E6%A5%9A%E4%B8%80%E7%9B%B8%E5%85%B3%E4%BA%89%E8%AE%AE%23) `276.3K 🔥`
-1. [薛之谦演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23) `276.2K 🔥`
-1. [泳池走路 减肥](https://s.weibo.com/weibo?q=%23%E6%B3%B3%E6%B1%A0%E8%B5%B0%E8%B7%AF%20%E5%87%8F%E8%82%A5%23) `275.9K 🔥`
-1. [张凌赫谈负面评价 (Zhang Linghe talks about negative comments)](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B0%88%E8%B4%9F%E9%9D%A2%E8%AF%84%E4%BB%B7%23) `275.8K 🔥`
-1. [DDR5内存大降价](https://s.weibo.com/weibo?q=%23DDR5%E5%86%85%E5%AD%98%E5%A4%A7%E9%99%8D%E4%BB%B7%23) `275.0K 🔥`
-1. [陈牧驰晒还钱截图](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E6%99%92%E8%BF%98%E9%92%B1%E6%88%AA%E5%9B%BE%23) `274.8K 🔥`
-1. [奶茶店点一杯不够起送 (Milk tea shop offers free delivery if you order one cup)](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E7%82%B9%E4%B8%80%E6%9D%AF%E4%B8%8D%E5%A4%9F%E8%B5%B7%E9%80%81%23) `274.7K 🔥`
-1. [为什么没人跑去江苏看海](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E4%BA%BA%E8%B7%91%E5%8E%BB%E6%B1%9F%E8%8B%8F%E7%9C%8B%E6%B5%B7%23) `274.5K 🔥`
-1. [网约车 风琴脚 (Online car hailing organ foot)](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%20%E9%A3%8E%E7%90%B4%E8%84%9A%23) `274.3K 🔥`
-1. [白日提灯首日云合](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E9%A6%96%E6%97%A5%E4%BA%91%E5%90%88%23) `274.1K 🔥`
-1. [白日提灯短剧排播](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E7%9F%AD%E5%89%A7%E6%8E%92%E6%92%AD%23) `273.7K 🔥`
-1. [头发像奶油一样化开了](https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%83%8F%E5%A5%B6%E6%B2%B9%E4%B8%80%E6%A0%B7%E5%8C%96%E5%BC%80%E4%BA%86%23) `273.5K 🔥`
-1. [张震岳收藏吐槽周杰伦的文章 (Zhang Chenyue collects articles complaining about Jay Chou)](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9C%87%E5%B2%B3%E6%94%B6%E8%97%8F%E5%90%90%E6%A7%BD%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%E6%96%87%E7%AB%A0%23) `273.2K 🔥`
-1. [郑晓龙拍了女演员被潜规则](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%99%93%E9%BE%99%E6%8B%8D%E4%BA%86%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%AB%E6%BD%9C%E8%A7%84%E5%88%99%23) `272.6K 🔥`
-1. [胡塞伊朗黎巴嫩同步袭击以色列 (Houthis, Iran and Lebanon synchronize attacks on Israel)](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A1%9E%E4%BC%8A%E6%9C%97%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%90%8C%E6%AD%A5%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%23) `272.2K 🔥`
-1. [雀巢12吨巧克力被盗](https://s.weibo.com/weibo?q=%23%E9%9B%80%E5%B7%A212%E5%90%A8%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%A2%AB%E7%9B%97%23) `1.1M 🔥` `-41%`
-1. [氯雷他定](https://s.weibo.com/weibo?q=%23%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%23) `799.6K 🔥` `-68%`
-1. [广州冰雹](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%86%B0%E9%9B%B9%23) `421.8K 🔥` `-21%`
-1. [这一秒过火33集](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB33%E9%9B%86%23) `276.9K 🔥` `-28%`
+1. [广州高铁 (Guangzhou High Speed ​​Rail)](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%AB%98%E9%93%81%23) `227.2K 🔥` `NEW`
+1. [狼队对战KSG](https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E5%AF%B9%E6%88%98KSG%23) `130.6K 🔥` `NEW`
+1. [巧克力大盗](https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%A4%A7%E7%9B%97%23) `118.6K 🔥` `NEW`
+1. [黑龙江海林楼房凌晨坍塌居民熟睡中](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%B5%B7%E6%9E%97%E6%A5%BC%E6%88%BF%E5%87%8C%E6%99%A8%E5%9D%8D%E5%A1%8C%E5%B1%85%E6%B0%91%E7%86%9F%E7%9D%A1%E4%B8%AD%23) `113.1K 🔥` `NEW`
+1. [仙逆](https://s.weibo.com/weibo?q=%23%E4%BB%99%E9%80%86%23) `105.4K 🔥` `NEW`
+1. [带状疱疹72小时内一定要做这件事](https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B972%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%80%E5%AE%9A%E8%A6%81%E5%81%9A%E8%BF%99%E4%BB%B6%E4%BA%8B%23) `99.6K 🔥` `NEW`
+1. [美军一E3预警机在沙特基地遭袭受损](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E4%B8%80E3%E9%A2%84%E8%AD%A6%E6%9C%BA%E5%9C%A8%E6%B2%99%E7%89%B9%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD%E5%8F%97%E6%8D%9F%23) `98.6K 🔥` `NEW`
+1. [拼豆你原来这么实用](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E8%B1%86%E4%BD%A0%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E5%AE%9E%E7%94%A8%23) `98.3K 🔥` `NEW`
+1. [孙颖莎王曼昱首日出战](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A6%96%E6%97%A5%E5%87%BA%E6%88%98%23) `96.2K 🔥` `NEW`
+1. [男子突发心梗离世3天前还跑马拉松](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%963%E5%A4%A9%E5%89%8D%E8%BF%98%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%23) `84.1K 🔥` `NEW`
+1. [NCT演唱会 (NCT concert)](https://s.weibo.com/weibo?q=%23NCT%E6%BC%94%E5%94%B1%E4%BC%9A%23) `78.7K 🔥` `NEW`
+1. [广州街景被盗图称是首尔](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%A1%97%E6%99%AF%E8%A2%AB%E7%9B%97%E5%9B%BE%E7%A7%B0%E6%98%AF%E9%A6%96%E5%B0%94%23) `73.6K 🔥` `NEW`
+1. [谢娜在张杰演唱会亲了秦岚杜华](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9C%A8%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%B2%E4%BA%86%E7%A7%A6%E5%B2%9A%E6%9D%9C%E5%8D%8E%23) `73.2K 🔥` `NEW`
+1. [女生半年不吃主食瘦50斤胆囊被切](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%B9%B4%E4%B8%8D%E5%90%83%E4%B8%BB%E9%A3%9F%E7%98%A650%E6%96%A4%E8%83%86%E5%9B%8A%E8%A2%AB%E5%88%87%23) `71.9K 🔥` `NEW`
+1. [迪丽热巴演技](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%BC%94%E6%8A%80%23) `428.8K 🔥` `+38%`
+1. [李荣浩4连质问单依纯](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A94%E8%BF%9E%E8%B4%A8%E9%97%AE%E5%8D%95%E4%BE%9D%E7%BA%AF%23) `10.3M 🔥`
+1. [雀巢12吨巧克力被盗](https://s.weibo.com/weibo?q=%23%E9%9B%80%E5%B7%A212%E5%90%A8%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%A2%AB%E7%9B%97%23) `1.1M 🔥`
+1. [氯雷他定](https://s.weibo.com/weibo?q=%23%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%23) `765.0K 🔥`
+1. [世界最大直径高铁盾构机上岸](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%9B%B4%E5%BE%84%E9%AB%98%E9%93%81%E7%9B%BE%E6%9E%84%E6%9C%BA%E4%B8%8A%E5%B2%B8%23) `616.9K 🔥`
+1. [NCT哭了](https://s.weibo.com/weibo?q=%23NCT%E5%93%AD%E4%BA%86%23) `259.0K 🔥`
+1. [内存条价格出现断崖式下跌 (Memory stick prices plummet)](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%87%BA%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23) `322.2K 🔥` `-43%`
+1. [很多食物都是面朝下更好吃](https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%A4%9A%E9%A3%9F%E7%89%A9%E9%83%BD%E6%98%AF%E9%9D%A2%E6%9C%9D%E4%B8%8B%E6%9B%B4%E5%A5%BD%E5%90%83%23) `231.5K 🔥` `-54%`
+1. [美军战斧导弹消耗速度震惊五角大楼](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%A7%E5%AF%BC%E5%BC%B9%E6%B6%88%E8%80%97%E9%80%9F%E5%BA%A6%E9%9C%87%E6%83%8A%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%23) `225.7K 🔥` `-51%`
+1. [奈雪的茶没人喝了 (No one drinks Nayuki’s tea anymore)](https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E6%B2%A1%E4%BA%BA%E5%96%9D%E4%BA%86%23) `220.2K 🔥` `-23%`
+1. [汪峰演唱会 (Wang Feng concert)](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23) `209.7K 🔥` `-60%`
+1. [鸭嘴钳是无数女性做检查时的噩梦](https://s.weibo.com/weibo?q=%23%E9%B8%AD%E5%98%B4%E9%92%B3%E6%98%AF%E6%97%A0%E6%95%B0%E5%A5%B3%E6%80%A7%E5%81%9A%E6%A3%80%E6%9F%A5%E6%97%B6%E7%9A%84%E5%99%A9%E6%A2%A6%23) `208.7K 🔥` `-46%`
+1. [郝蕾说的是谁好难猜啊 (It’s hard to guess who Hao Lei is talking about.)](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%AF%B4%E7%9A%84%E6%98%AF%E8%B0%81%E5%A5%BD%E9%9A%BE%E7%8C%9C%E5%95%8A%23) `205.4K 🔥` `-34%`
+1. [母亲隐瞒近40岁女儿已婚骗17万彩礼 (Mother concealed that her nearly 40-year-old daughter was married and defrauded her of 170,000 yuan in gift money)](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E9%9A%90%E7%9E%92%E8%BF%9140%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B7%B2%E5%A9%9A%E9%AA%9717%E4%B8%87%E5%BD%A9%E7%A4%BC%23) `179.9K 🔥` `-35%`
+1. [单依纯 舞娘 (Shan Yichun Dancer)](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E8%88%9E%E5%A8%98%23) `175.2K 🔥` `-70%`
+1. [一二线城市兴起周末情侣 (Weekend couples are emerging in first- and second-tier cities)](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E5%85%B4%E8%B5%B7%E5%91%A8%E6%9C%AB%E6%83%85%E4%BE%A3%23) `132.1K 🔥` `-72%`
+1. [广州冰雹](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%86%B0%E9%9B%B9%23) `130.9K 🔥` `-69%`
+1. [严浩翔分享歌曲](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%88%86%E4%BA%AB%E6%AD%8C%E6%9B%B2%23) `117.7K 🔥` `-58%`
+1. [儿子蛇缠腰父亲涂抹符水圈住疱疹 (The son has a snake wrapped around his waist and the father applies talismans to trap herpes)](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%9B%87%E7%BC%A0%E8%85%B0%E7%88%B6%E4%BA%B2%E6%B6%82%E6%8A%B9%E7%AC%A6%E6%B0%B4%E5%9C%88%E4%BD%8F%E7%96%B1%E7%96%B9%23) `117.5K 🔥` `-58%`
+1. [这一秒过火33集](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB33%E9%9B%86%23) `116.7K 🔥` `-58%`
+1. [陈牧驰回应与吴楚一相关争议 (Chen Muchi responded to the controversy related to Wu Chuyi)](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%90%B4%E6%A5%9A%E4%B8%80%E7%9B%B8%E5%85%B3%E4%BA%89%E8%AE%AE%23) `113.1K 🔥` `-59%`
+1. [奶茶店点一杯不够起送 (Milk tea shop offers free delivery if you order one cup)](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E7%82%B9%E4%B8%80%E6%9D%AF%E4%B8%8D%E5%A4%9F%E8%B5%B7%E9%80%81%23) `113.0K 🔥` `-59%`
+1. [张凌赫谈负面评价 (Zhang Linghe talks about negative comments)](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B0%88%E8%B4%9F%E9%9D%A2%E8%AF%84%E4%BB%B7%23) `106.5K 🔥` `-61%`
+1. [春假](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%81%87%23) `101.8K 🔥` `-67%`
+1. [1米8男子遭家暴称我要离婚](https://s.weibo.com/weibo?q=%231%E7%B1%B38%E7%94%B7%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E7%A7%B0%E6%88%91%E8%A6%81%E7%A6%BB%E5%A9%9A%23) `98.8K 🔥` `-64%`
+1. [泳池走路 减肥](https://s.weibo.com/weibo?q=%23%E6%B3%B3%E6%B1%A0%E8%B5%B0%E8%B7%AF%20%E5%87%8F%E8%82%A5%23) `98.6K 🔥` `-64%`
+1. [薛之谦演唱会 (Joker Xue Concert)](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23) `93.9K 🔥` `-66%`
+1. [陈牧驰晒还钱截图](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E6%99%92%E8%BF%98%E9%92%B1%E6%88%AA%E5%9B%BE%23) `86.4K 🔥` `-69%`
+1. [檀健次看镜头好温柔](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9C%8B%E9%95%9C%E5%A4%B4%E5%A5%BD%E6%B8%A9%E6%9F%94%23) `82.5K 🔥` `-70%`
+1. [70岁四川师傅炒牛肉蒜苔](https://s.weibo.com/weibo?q=%2370%E5%B2%81%E5%9B%9B%E5%B7%9D%E5%B8%88%E5%82%85%E7%82%92%E7%89%9B%E8%82%89%E8%92%9C%E8%8B%94%23) `74.2K 🔥` `-73%`
+1. [白日提灯](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%23) `73.5K 🔥` `-73%`
+1. [为什么没人跑去江苏看海](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E4%BA%BA%E8%B7%91%E5%8E%BB%E6%B1%9F%E8%8B%8F%E7%9C%8B%E6%B5%B7%23) `72.0K 🔥` `-74%`
+1. [浪姐7唯一双金影后](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%907%E5%94%AF%E4%B8%80%E5%8F%8C%E9%87%91%E5%BD%B1%E5%90%8E%23) `70.9K 🔥` `-74%`
+1. [DDR5内存大降价](https://s.weibo.com/weibo?q=%23DDR5%E5%86%85%E5%AD%98%E5%A4%A7%E9%99%8D%E4%BB%B7%23) `70.9K 🔥` `-74%`
+1. [张震岳收藏吐槽周杰伦的文章 (Zhang Chenyue collects articles complaining about Jay Chou)](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9C%87%E5%B2%B3%E6%94%B6%E8%97%8F%E5%90%90%E6%A7%BD%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%E6%96%87%E7%AB%A0%23) `70.9K 🔥` `-74%`
 
-Updated at 2026-03-29 18:21:57
+Updated at 2026-03-29 18:58:08
 
 <!-- END -->
 
